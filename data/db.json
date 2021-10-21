@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new hompage banner",
+      "details": "This is a red",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "Make a news site",
+      "details": "Lorem Ipsum",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "Learn VueX",
+      "details": "Lorem Ipsum",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
